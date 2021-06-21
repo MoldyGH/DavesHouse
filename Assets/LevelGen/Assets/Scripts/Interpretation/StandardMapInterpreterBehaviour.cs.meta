@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e3e5b8ebc5dc7694e9133f60825dbd94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 100000, guid: 70fd1ea25aa2cd54cbdc92143d93b762, type: 2}
+  - corridorWallTile: {fileID: 2800000, guid: c603653d1855ac5419270672cf308a82, type: 3}
+  - roomWallTile: {fileID: 2800000, guid: c603653d1855ac5419270672cf308a82, type: 3}
+  - corridorFloorTile: {fileID: 2800000, guid: eb25e9343cb72d7429db380ddf25c579, type: 3}
+  - roomFloorTile: {fileID: 2800000, guid: eb25e9343cb72d7429db380ddf25c579, type: 3}
+  - rockTile: {fileID: 2800000, guid: 34f99a2b642f84a47b21bb51c5b8a59e, type: 3}
+  - doorTile: {fileID: 2800000, guid: 9d5c880d7ec788544a2a097e2facf2a2, type: 3}
+  - columnTile: {fileID: 2800000, guid: c603653d1855ac5419270672cf308a82, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
